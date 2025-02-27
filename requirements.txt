@@ -1,4 +1,4 @@
-
+openpyxl
 pillow
 pdf2docx
 pandas
