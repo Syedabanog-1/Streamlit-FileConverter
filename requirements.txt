@@ -1,6 +1,5 @@
 streamlit
-os
-subprocess
-PIL
+pillow
 pdf2docx
 pandas
+docx2pdf
