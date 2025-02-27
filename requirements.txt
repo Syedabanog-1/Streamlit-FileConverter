@@ -1,0 +1,6 @@
+streamlit
+os
+subprocess
+PIL
+pdf2docx
+pandas
